@@ -1,0 +1,19 @@
+{
+  "name": "somesocialapp",
+  "version": "1.0.0",
+  "description": "A basic social app for sharing work experience and connecting with others",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bryan Jastrzembski",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^2.25.2",
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "graphql": "^15.6.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.3"
+  }
+}
