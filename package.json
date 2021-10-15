@@ -4,6 +4,7 @@
   "description": "A basic social app for sharing work experience and connecting with others",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Bryan Jastrzembski",
